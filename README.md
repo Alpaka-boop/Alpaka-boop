@@ -11,9 +11,9 @@ I'm a curious student with a keen interest in programming. Welcome to my GitHub 
 
 ## Skills
 
-- 💻 Programming Languages: [Your Languages]
-- 🛠️ Technologies & Tools: [Your Tools and Technologies]
-- 📚 Always learning and staying curious!
+- 💻 Programming Languages: C++, C, Java, Python, MySQL
+- 🛠️ Technologies & Tools: Git/GitHub, macOS, Visual Studio Code, IntelliJ IDEA, PyCharm, CLion
+- 📚 Always being active and open to new knowledges!
 
 ## Projects
 
