@@ -28,7 +28,4 @@ I'm a curious student with a keen interest in programming. Welcome to my GitHub 
 Projects I'm proud of are pinned at the top of my profile.
 
 ## Let's Connect
-
-- Feel free to reach out to me: [<img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="150" height="50">](https://mail.yandex.com/?uid=1130000060644555)
-- Connect with me on Telegramm: [<img src="./TGLogo.png" alt="Telegram" width="150" height="50">](https://t.me/aliylosos)
-- Connect with me on VK: [<img src="./Vk.png" alt="Vk" width="150" height="50"](https://vk.com/aliylosos)
+[<img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="60" height="70">](https://mail.yandex.com/?uid=1130000060644555) [<img src="./TGLogo.png" alt="Telegram" width="80" height="59">](https://t.me/aliylosos) [<img src="./Vk.png" alt="Vk" width="50" height="50">](https://vk.com/aliylosos)
