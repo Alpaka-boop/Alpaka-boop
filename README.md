@@ -1,6 +1,6 @@
 # Hello, I'm Sergey 👋
 
-I'm a curious student with a keen interest in programming. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions and explorations.
+I'm a curious student with a keen interest in programming. Welcome to my GitHub profile! Here, you'll find a collection of my projects.
 
 ## About Me
 
@@ -11,49 +11,24 @@ I'm a curious student with a keen interest in programming. Welcome to my GitHub 
 
 ## Skills
 
-- 💻 Programming Languages: C++, C, Java, Python, MySQL
-- 🛠️ Technologies & Tools: Git/GitHub, macOS, Visual Studio Code, IntelliJ IDEA, PyCharm, CLion
-- 📚 Always being active and open to new knowledges!
+### Languages
+
+- **C and C++:** I have a fundamental understanding. My main languages.
+- **Java:** I confident in writing Java code.
+- **Python:** I've worked with it. I have competent understanding.
+- **MySQL:** Basic skill proficiency.
+
+### Technologies & Tools
+- Git/GitHub
+- macOS
+- Visual Studio Code, IntelliJ IDEA, PyCharm, CLion
 
 ## Projects
 
-Here are a few projects I'm proud of:
-
-### [Project 1 Name]
-
-[Short description of the project. Highlight its purpose, technologies used, and any interesting challenges you faced.]
-
-- [Link to the project repository]
-- [Live demo or deployed version, if applicable]
-
-### [Project 2 Name]
-
-[Short description of the project. Highlight its purpose, technologies used, and any interesting challenges you faced.]
-
-- [Link to the project repository]
-- [Live demo or deployed version, if applicable]
-
-### [Project 3 Name]
-
-[Short description of the project. Highlight its purpose, technologies used, and any interesting challenges you faced.]
-
-- [Link to the project repository]
-- [Live demo or deployed version, if applicable]
-
-## Open Source Contributions
-
-I'm passionate about contributing to open-source projects. Here are a few notable contributions:
-
-- [Contribution 1](link)
-- [Contribution 2](link)
-- [Contribution 3](link)
+Projects I'm proud of are pinned at the top of my profile.
 
 ## Let's Connect
 
-- 📫 Feel free to reach out to me: [Your Email]
-- 🐦 Connect with me on Twitter: [@YourTwitterHandle]
-- 💼 Connect with me on LinkedIn: [Your LinkedIn Profile]
-
-## Thanks for visiting!
-
-Thank you for checking out my GitHub profile. I'm always open to collaboration and interesting projects. Let's build something amazing together! 👩‍💻🚀
+- Feel free to reach out to me: [![Yandex mail](./Yandex_Mail_icon.svg.png)](nikitin.sv@phystech.edu)
+- Connect with me on Telegramm: [![Telegram](./TGLogo.png)](https://t.me/aliylosos)
+- Connect with me on VK: [![Vk](./Vk.png)](https://vk.com/aliylosos)
