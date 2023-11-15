@@ -29,8 +29,8 @@ Projects I'm proud of are pinned at the top of my profile.
 
 ## Contact me
 
-[<img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="70" height="70" align="middle" style="margin-right: -1px;"/>](mailto:nikitin.sv@phystech.edu)
-[<img src="./Gmail_icon.png" alt="Gmail" width="50" height="40" align="middle" style="margin-right: -10px;"/>](mailto:sergeynikitin.ert@gmail.com)
-[<img src="./TGLogo.png" alt="Telegram" width="80" height="59" align="middle" style="margin-right: -8px;">](https://t.me/aliylosos)
-[<img src="./Vk.png" alt="Vk" width="50" height="50" align="middle" style="margin-right: 6px;">](https://vk.com/aliylosos)
-[<img src="./Instagram_logo.png" alt="Instagram" width="50" height="50" align="middle">](https://www.instagram.com//ser_nkt\;x-teamidentifier=777W53UFB2\;x-bundleidentifiers=com.burbn.instagram:x-apple:https%3A//www.instagram.com/ser_nkt)
+[<img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="70" height="70" align="center" style="margin-right: -1px;"/>](mailto:nikitin.sv@phystech.edu)
+[<img src="./Gmail_icon.png" alt="Gmail" width="50" height="40" align="center" style="margin-right: -10px;"/>](mailto:sergeynikitin.ert@gmail.com)
+[<img src="./TGLogo.png" alt="Telegram" width="80" height="59" align="center" style="margin-right: -8px;">](https://t.me/aliylosos)
+[<img src="./Vk.png" alt="Vk" width="50" height="50" align="center" style="margin-right: 6px;">](https://vk.com/aliylosos)
+[<img src="./Instagram_logo.png" alt="Instagram" width="50" height="50" align="center">](https://www.instagram.com//ser_nkt\;x-teamidentifier=777W53UFB2\;x-bundleidentifiers=com.burbn.instagram:x-apple:https%3A//www.instagram.com/ser_nkt)
