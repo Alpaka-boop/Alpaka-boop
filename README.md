@@ -14,7 +14,7 @@ I'm a curious student with a keen interest in programming. Welcome to my GitHub 
 ### Languages
 
 - **C and C++:** I have a fundamental understanding. My main languages.
-- **Java:** I confident in writing Java code.
+- **Java:** I'm confident in writing Java code.
 - **Python:** I've worked with it. I have competent understanding.
 - **MySQL:** Basic skill proficiency.
 
@@ -27,5 +27,9 @@ I'm a curious student with a keen interest in programming. Welcome to my GitHub 
 
 Projects I'm proud of are pinned at the top of my profile.
 
-## Let's Connect
-[<img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="60" height="70" align="middle">](https://mail.yandex.com/?uid=1130000060644555) [<img src="./TGLogo.png" alt="Telegram" width="80" height="59" align="middle">](https://t.me/aliylosos) [<img src="./Vk.png" alt="Vk" width="50" height="50" align="middle">](https://vk.com/aliylosos)
+## Contact me
+<a href="mailto:nikitin.sv@phystech.edu" target="_blank"><img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="70" height="70" align="middle"  style="margin-right: 7px;"/></a>
+<a href="mailto:sergeynikitin.ert@gmail.com" target="_blank"><img src="./Gmail_icon.png" alt="Yandex mail" width="50" height="40" align="middle"/></a>
+[<img src="./TGLogo.png" alt="Telegram" width="80" height="59" align="middle" style="margin-right: px;">](https://t.me/aliylosos)
+[<img src="./Vk.png" alt="Vk" width="50" height="50" align="middle" style="margin-right: 15px;">](https://vk.com/aliylosos)
+[<img src="./Instagram_logo.png" alt="Instagram" width="50" height="50" align="middle" style="margin-right: 30px;">](https://www.instagram.com/ser_nkt\;x-teamidentifier=777W53UFB2\;x-bundleidentifiers=com.burbn.instagram:x-apple:https%3A//www.instagram.com/ser_nkt)
