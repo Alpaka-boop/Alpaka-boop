@@ -29,6 +29,6 @@ Projects I'm proud of are pinned at the top of my profile.
 
 ## Let's Connect
 
-- Feel free to reach out to me: [![Yandex mail](./Yandex_Mail_icon.svg.png)](nikitin.sv@phystech.edu)
-- Connect with me on Telegramm: [![Telegram](./TGLogo.png)](https://t.me/aliylosos)
-- Connect with me on VK: [![Vk](./Vk.png)](https://vk.com/aliylosos)
+- Feel free to reach out to me: [<img src="./Yandex_Mail_icon.svg.png" alt="Yandex mail" width="150" height="50">](https://mail.yandex.com/?uid=1130000060644555)
+- Connect with me on Telegramm: [<img src="./TGLogo.png" alt="Telegram" width="150" height="50">](https://t.me/aliylosos)
+- Connect with me on VK: [<img src="./Vk.png" alt="Vk" width="150" height="50"](https://vk.com/aliylosos)
